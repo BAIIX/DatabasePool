@@ -1,0 +1,11 @@
+{
+  "ip": "127.20.20.1",
+  "port": "3306",
+  "userName": "root",
+  "password": "ab040215",
+  "dbName": "BAI",
+  "minSize": 100,
+  "maxSize": 500,
+  "maxIdleTime": 5000,
+  "Timeout": 1000
+}
